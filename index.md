@@ -4,3 +4,7 @@
 
 layout: home
 ---
+Run for localy development
+{% highlight ruby %}
+bundle exec jekyll serve --livereload
+{% endhighlight %}
