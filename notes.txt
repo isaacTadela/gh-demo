@@ -6,4 +6,17 @@ https://www.youtube.com/watch?v=zijOXpZzdvs&list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJi
 
 connect vs code to a container 
 
+----
+
+Start Own Blogging Platform With Jekyll and GitHub Page.
+https://www.youtube.com/watch?v=vkz-VySAdx0&ab_channel=DataQoil
+
+???
+comments: github issue connect to the blog???
+add Google Analytics
+
+
+https://analytics.google.com/
+
+isaactadela.github.io/gh-demo/
 
